@@ -52,3 +52,16 @@ This is a simple web-based chat application that interacts with OpenAI's GPT-3.5
 
 ## Project Structure
 
+own-chatgpt/ <br />
+├── app.py <br />
+├── index.html <br />
+└── style.css (optional for custom styles) <br />
+
+If you have any questions, feel free to reach out:
+
+- GitHub: [gowricharan21](https://github.com/gowricharan21)
+- Email: gowricharan21@gmail.com
+
+---
+
+*This project was created with love using Python and Flask.* ❤️
